@@ -37,5 +37,5 @@ También se realiza una prueba de una red neuronal utilizando tensores de dimens
 `Sigmoid:         (1000, 10)`  
 # Resultado esperado:
 Al ejecutar el programa, se muestran por consola las dimensiones (shape) de los tensores después de cada operación.  
-El programa finaliza mostrando:  
+**El programa finaliza mostrando:**  
 Salida final lista (1000 x 10).
